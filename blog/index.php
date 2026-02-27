@@ -1,4 +1,7 @@
-<?php $title = "GameTank"; ?>
+<?php
+    $title = "GameTank";
+    $page="blog";
+?>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/include/postlist.php'?>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/include/head.php'?>
 

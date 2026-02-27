@@ -12,6 +12,8 @@
         if (isset($page)) {
             if ($page === 'home') {
                 $pageclass = "homepage";
+            } elseif ($page === 'blog') {
+                $pageclass = "bloghome";
             }
         } else {
             $page = "";
