@@ -14,6 +14,7 @@
     <br>
     <a href="https://github.com/clydeshaffer/gametank_sdk">C SDK</a>
     <a href="https://github.com/dwbrite/gametank-sdk">Rust SDK</a>
+    <a href="https://github.com/fetchingcat/gametank_basic_sdk">BASIC SDK</a>
     <br>
     <a href="https://youtube.gametank.zone">Youtube</a>
     <br>
