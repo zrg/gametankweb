@@ -15,7 +15,10 @@
         <li>Dedicated audio coprocessor</li>
         <li>Fully open source</li>
     </ul>
-    <img class="header__image" src="img/gametank-angle-01.png" />
+    <picture>
+        <source srcset="/img/gametank-angle-01-smaller.png" media="(width < 800px)" />
+        <img class="header__image" src="/img/gametank-angle-01.png" alt="Big blue GameTank console" />
+    </picture>
 </header>
 <section class="homepage__content">
     <h2 class="announce">Live now on <a href="https://www.crowdsupply.com/clydeware/gametank">Crowd Supply</a>!! Order yours today to help make this production run happen!</h2>
