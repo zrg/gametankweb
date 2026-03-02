@@ -141,7 +141,7 @@ img {
     transform: translateY(-100%);
     z-index: 1;
     padding-bottom: 1em;
-    transition: transform linear 0.2s;
+    transition: transform ease-in-out 0.2s;
 
     .homelink {
       display: none;
